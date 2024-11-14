@@ -16,11 +16,9 @@ This project aims to develop a machine learning model to classify concrete image
 
 7. Model Deployment
   
-8. Repository Structure
+8. Results
   
-9. Results
-  
-10. References
+9. References
 
 
 ## Project Overview
@@ -80,6 +78,13 @@ Performance results are saved for analysis and reporting.
 ## Model Deployment
 
 The trained model is saved in .h5 format and is used to predict on test images to confirm generalizability. Deployment scripts allow easy loading of the model for inference on new data.
+
+## References
+
+Dataset Source:
+
+https://data.mendeley.com/datasets/5y9wdsg2zt/2
+
 
 ## Results
 
