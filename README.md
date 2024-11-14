@@ -83,3 +83,15 @@ The trained model is saved in .h5 format and is used to predict on test images t
 
 ## Results
 
+### Model Architecture
+
+<img width="283" alt="Model_Architecture" src="https://github.com/user-attachments/assets/d9ba18f3-2ee7-47db-bcbb-7eff8183e2de">
+
+### Model Performance
+
+<img width="525" alt="Model_Performance" src="https://github.com/user-attachments/assets/4c25e22a-178c-4342-ab99-16d45ba4d824">
+
+
+
+
+
